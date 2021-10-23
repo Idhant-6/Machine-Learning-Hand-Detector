@@ -29,6 +29,12 @@ while True:
                 # cv2.circle(img, (cx, cy), 15, (255,0,255), cv2.FILLED)
 
             mpDraw.draw_landmarks(img, handLms, mpHands.HAND_CONNECTIONS)
+            
+    
+    k = cv2.waitKey(50)
+    if k % 256 == 27:
+        print("Closing Camera")
+        break
 
     cTime = time.time()
     fps = 1/(cTime-pTime)
