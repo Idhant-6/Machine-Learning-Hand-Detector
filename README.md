@@ -9,6 +9,8 @@
 * `pip install mediapipe`
 * `pip install opencv-python`
 ##### After You've installed the Modules,
+* Click on The Code button in the Repository, And Then Click on Download Zip.
+* Extract The Zip File.
 * Run The Hand Detection.py File And Wait for it to Configure itself for few seconds,
 * After The Camera Has Been started, Then Show your hands in the Camera.
 * And Then, Wow! You Can see that The Project will Detect the 21 Landmarks on Your hands and show it in the camera!!
