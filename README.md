@@ -14,12 +14,14 @@
 * Run The Hand Detection.py File And Wait for it to Configure itself for few seconds,
 * After The Camera Has Been started, Then Show your hands in the Camera.
 * And Then, Wow! You Can see that The Project will Detect the 21 Landmarks on Your hands and show it in the camera!!
+* Press Escape Key To Close The Camera if You Want...
 
 ## Experiments
 
 * Try Turning You hands from 0 degrees 360 degrees.
 * Try Changing your hand movements very quickly.
 * Try the Typing action in Camera, (That Really Looks cool!!)
+
 
 ### And If you Enjoyed All That, Then Star This Repository!
 
