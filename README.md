@@ -27,4 +27,3 @@
 
 
 ##### Initial Owner -- [Popstar Idhant](https://github.com/Idhant-6)
-[![https://img.shields.io/badge/Owner-%40Idhant--6-purple]](https://github.com/Idhant-6)
